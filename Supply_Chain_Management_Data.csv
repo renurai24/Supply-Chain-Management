@@ -1,0 +1,16 @@
+Product ID,Product Name,Region,Units Sold,Units Defective,Lead Time (Days),Transportation Cost ($),Revenue ($),Supplier Rating (1-5)
+P001,Widget A,North America,1000,20,5,1500,25000,4.5
+P002,Gadget B,Europe,800,15,7,2000,20000,4.0
+P003,Gizmo C,Asia,1200,10,10,2500,30000,4.8
+P004,Widget D,South America,700,25,8,1800,18000,3.9
+P005,Gadget E,Oceania,900,30,6,2100,22500,4.2
+P006,Gizmo F,North America,1100,12,4,1400,27500,4.7
+P007,Widget G,Europe,600,20,9,2200,15000,3.8
+P008,Gadget H,Asia,1300,18,11,2700,32500,4.9
+P009,Widget I,South America,750,16,7,1900,19500,4.0
+P010,Gizmo J,Oceania,1000,25,5,2300,25000,4.4
+P011,Widget K,North America,950,10,3,1600,23750,4.6
+P012,Gadget L,Europe,850,14,6,2000,21250,4.3
+P013,Gizmo M,Asia,1400,8,12,2800,35000,4.9
+P014,Widget N,South America,650,20,8,1700,16250,3.7
+P015,Gadget O,Oceania,1050,22,5,2400,26250,4.5
